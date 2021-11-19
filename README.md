@@ -1,17 +1,14 @@
 
 # Landmarks 
 
-Take a break and visit some exciting landmarks. An iOS demo app built with Swift UI.
+Take a break and visit some exciting landmarks. A demo app built with Swift UI.
 
 ## Demo
-
-<video loop controls width="320">
-    <source src="https://raw.github.com/emmanuelchucks/landmarks/blob/main/Screenshots/Screen%20Recording%202021-11-18%20at%209.48.34%20PM.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-
-<iframe src="https://player.vimeo.com/video/647529953" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[iOS demo (Vimeo)](https://player.vimeo.com/video/647534850)
+<br>
+[watchOS demo (Vimeo)](https://player.vimeo.com/video/647537276)
+<br>
+[macOS demo (Vimeo)](https://player.vimeo.com/video/647536410)
 
 ## Features
 
