@@ -39,9 +39,4 @@ Open in XCode
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.13.26%20PM.png" alt="Home screen" width="240px"/>
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.13.44%20PM.png" alt="Profile screen" width="240px"/>
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.13.52%20PM.png" alt="Edit profile screen" width="240px"/>
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.14.02%20PM.png" alt="List tab screen" width="240px"/>
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.14.07%20PM.png" alt="Filter landmarks screen" width="240px"/>
-<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot%202021-11-18%20at%2010.14.31%20PM.png" alt="Landmark details screen" width="240px"/>
+<img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.13.26_PM-removebg.png" alt="Home screen" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.13.44_PM-removebg.png" alt="Profile screen" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.13.52_PM-removebg.png" alt="Edit profile screen" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.14.02_PM-removebg.png" alt="List tab screen" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.14.07_PM-removebg.png" alt="Filter landmarks screen" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/landmarks/main/Screenshots/Screenshot_2021-11-18_at_10.14.31_PM-removebg.png" alt="Landmark details screen" width="240px"/>
