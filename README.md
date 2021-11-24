@@ -1,4 +1,3 @@
-
 # Landmarks 
 
 Take a break and visit some exciting landmarks. A demo app built with Swift UI.
